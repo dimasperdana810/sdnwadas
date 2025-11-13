@@ -1,2 +1,4 @@
 # Pemeringkatan Penerimaan Beasiswa SD 3 Wadas Menggunakan Metode AHP - Copras 
-# Php
+File database di folder Database 
+import untuk table yg ada
+
