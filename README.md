@@ -1,4 +1,4 @@
-
+New
 Designed and built a web-based application to streamline the scholarship selection process for SD Negeri 3 Wadas. This system functions as a Decision Support System (DSS) to objectively rank candidates based on weighted criteria, ensuring financial aid is distributed to the most eligible students.
 
 Key Contributions:
